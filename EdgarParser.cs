@@ -16,12 +16,15 @@ namespace EdgarCrawler
         public string DownloadLocation { get; set; }
         public EdgarParser(string webUrl)
         {
-            GetHTML(webUrl);
-            DownloadLocation = ConfigurationManager.ConnectionStrings["DownloadLocation"].ConnectionString;
-            string formDString = ConfigurationManager.ConnectionStrings["formDHtml"].ConnectionString;
-            cycleThroughString(formDString);
-            string formDAString = ConfigurationManager.ConnectionStrings["formDaHtml"].ConnectionString;
-            cycleThroughString(formDAString);
+            bool isDownloaded = GetHTML(webUrl);
+            if (isDownloaded)
+            {
+                DownloadLocation = ConfigurationManager.ConnectionStrings["DownloadLocation"].ConnectionString;
+                string formDString = ConfigurationManager.ConnectionStrings["formDHtml"].ConnectionString;
+                cycleThroughString(formDString);
+                string formDAString = ConfigurationManager.ConnectionStrings["formDaHtml"].ConnectionString;
+                cycleThroughString(formDAString);
+            }
         }
 
         private void cycleThroughString(string formString)
@@ -52,19 +55,41 @@ namespace EdgarCrawler
         {
             if (!File.Exists(DownloadLocation + fileName))
             {
-                XmlDocument xmlDoc = new XmlDocument();
-                xmlDoc.Load(xmlUrl);
-                xmlDoc.Save(DownloadLocation + fileName);
+                try
+                {
+                    Console.WriteLine("Downloading: " + fileName);
+                    XmlDocument xmlDoc = new XmlDocument();
+                    xmlDoc.Load(xmlUrl);
+                    xmlDoc.Save(DownloadLocation + fileName);
+                }
+                catch(Exception x)
+                {
+                    Console.WriteLine(x.Message);
+                }                    
+            }
+            else
+            {
+                Console.WriteLine("File already exists: " + fileName);
             }
         }       
-        private void GetHTML(string url)
+        private bool GetHTML(string url)
         {
+            bool isDownloaded = false;
             using (WebClient client = new WebClient())
             {
-                edgarHtml = client.DownloadString(url);
-                
-            }            
-          
+                try
+                {
+                    Console.WriteLine("downloading html from " + url);
+                    edgarHtml = client.DownloadString(url);                  
+                    isDownloaded = true;
+                }
+                catch (Exception x)
+                {
+                    Console.WriteLine("Problem downloading: "  + x.Message);
+                    isDownloaded = false;
+                }                
+            }
+            return isDownloaded;          
         }   
     }
 }
