@@ -1,0 +1,6 @@
+c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\bin\Debug\EdgarCrawler.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\bin\Debug\EdgarCrawler.exe
+c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\bin\Debug\EdgarCrawler.pdb
+c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\obj\Debug\EdgarCrawler.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\obj\Debug\EdgarCrawler.exe
+c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\obj\Debug\EdgarCrawler.pdb
