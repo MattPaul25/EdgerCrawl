@@ -37,7 +37,6 @@ namespace EdgarCrawler
             }
             catch (Exception x)
             {
-                System.Threading.Thread.Sleep(10000);
                 oAccess.Quit();
                 System.Runtime.InteropServices.Marshal.ReleaseComObject(oAccess);
                 oAccess = null;

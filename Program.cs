@@ -11,6 +11,7 @@ namespace EdgarCrawler
     {
         static void Main(string[] args)
         {
+
             TextUtils.Comment("I grab code from edgar's site and find Form Ds and form D/As");
             TextUtils.Comment("I then pull xmls and load them into a file for further execution");
 
@@ -20,7 +21,7 @@ namespace EdgarCrawler
                 TextUtils.Comment("preperation was successful");
                 var p = new EdgarParser();
                 if (p.IsSuccessful)
-                {                    
+                {
                     var ex = new ExcelInterop();
                     var ac = new AccessInterop();
                 }
@@ -30,7 +31,7 @@ namespace EdgarCrawler
                 TextUtils.Comment("Problem with preparation: Program ended Abnormally");
             }
 
-             var prep2 = new Prepare();
+            var prep2 = new Prepare();
         }
     }
 
