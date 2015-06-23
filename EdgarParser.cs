@@ -14,6 +14,7 @@ namespace EdgarCrawler
     {
         
         public string DownloadLocation { get; set; }
+        public string DownloadPrev { get; set; }
         public bool IsSuccessful { get; set; }
         private bool containsForms;
         private string formDString;
@@ -23,12 +24,13 @@ namespace EdgarCrawler
 
         public EdgarParser()
         {
-            containsForms = true;
-            IsSuccessful = true;
-            DownloadLocation = ConfigurationManager.ConnectionStrings["DownloadLocation"].ConnectionString;
-            formDString = ConfigurationManager.ConnectionStrings["formDHtml"].ConnectionString;
-            formDAString = ConfigurationManager.ConnectionStrings["formDaHtml"].ConnectionString;
-            pattern = @"\d{6,7}\/\d{18}\/";
+            this.containsForms = true;
+            this.IsSuccessful = true;
+            this.DownloadLocation = ConfigurationManager.ConnectionStrings["DownloadLocation"].ConnectionString;
+            this.DownloadPrev = ConfigurationManager.ConnectionStrings["DownloadPrev"].ConnectionString;
+            this.formDString = ConfigurationManager.ConnectionStrings["formDHtml"].ConnectionString;
+            this.formDAString = ConfigurationManager.ConnectionStrings["formDaHtml"].ConnectionString;
+            this.pattern = @"\d{6,7}\/\d{18}\/";
             EdgerCycle();
         }
 
@@ -74,7 +76,10 @@ namespace EdgarCrawler
                     Regex myRegex = new Regex(pattern);
                     Match myMatch = myRegex.Match(myUrl);
                     string xmlUrl = "https://www.sec.gov/Archives/edgar/data/" + myMatch.Value + "primary_doc.xml";
-                    string fileName = myMatch.Value.Replace("/", "") + ".xml";
+
+                    int x = myMatch.Value.Length;
+                    string fileName = constructFileName(myMatch.Value);
+                    
                     download(xmlUrl, fileName);
                 }
                 else
@@ -84,9 +89,24 @@ namespace EdgarCrawler
             }
         }
 
+        private string constructFileName(string match)
+        {
+            string fileName = match.Replace("/", "_");
+            int startParse =  TextUtils.Search(fileName, "_", 1);
+            int endParse = TextUtils.Search(fileName, "_", 2)-1;
+            string secondString = fileName.Substring(startParse, endParse - startParse);
+            string secondPortion = secondString.Substring(0, 10)
+                + "-" + secondString.Substring(10, 2) + "-" + secondString.Substring(12, secondString.Length - 12);
+
+            fileName = fileName + secondPortion + ".xml";
+            return fileName;
+            
+        }
+
         private void download(string xmlUrl, string fileName)
         {
-            if (!File.Exists(DownloadLocation + fileName))
+
+            if (!File.Exists(DownloadLocation + fileName) && !File.Exists(DownloadPrev + fileName))
             {
                 try
                 {
@@ -97,7 +117,7 @@ namespace EdgarCrawler
                 }
                 catch(Exception x)
                 {
-                    Console.WriteLine(x.Message);
+                    TextUtils.Comment(x.Message);
                     IsSuccessful = false;
                 }                    
             }
@@ -128,5 +148,7 @@ namespace EdgarCrawler
             return isDownloaded;          
         }
 
+
+        
     }
 }

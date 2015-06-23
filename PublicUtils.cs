@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -82,6 +83,17 @@ namespace EdgarCrawler
                 }
             }
             return newString;
+        }
+
+        public static void Comment(string Comment = "")
+        {
+            //writes comment to console and logs it on log
+            Console.WriteLine(Comment);
+            using (StreamWriter sw = new StreamWriter("History.txt", true))
+            {
+                sw.WriteLine(Comment);
+                sw.Close();
+            }
         }
     }
 }

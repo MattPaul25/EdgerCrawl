@@ -4,3 +4,10 @@ c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\bin\Debug\Edgar
 c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\obj\Debug\EdgarCrawler.csprojResolveAssemblyReference.cache
 c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\obj\Debug\EdgarCrawler.exe
 c:\users\matt\documents\visual studio 2013\Projects\EdgarCrawler\obj\Debug\EdgarCrawler.pdb
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\bin\Debug\EdgarCrawler.exe.config
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\obj\Debug\EdgarCrawler.exe
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\obj\Debug\EdgarCrawler.pdb
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\bin\Debug\EdgarCrawler.exe
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\bin\Debug\EdgarCrawler.pdb
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\obj\Debug\EdgarCrawler.csprojResolveAssemblyReference.cache
+C:\Users\fargusonm\Documents\visual studio 2013\Projects\EdgerCrawl\obj\Debug\EdgarCrawler.csproj.ResolveComReference.cache
