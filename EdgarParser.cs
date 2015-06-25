@@ -113,6 +113,8 @@ namespace EdgarCrawler
                     Console.WriteLine("Downloading: " + fileName);
                     XmlDocument xmlDoc = new XmlDocument();
                     xmlDoc.Load(xmlUrl);
+                    string newXml = InsertString(xmlDoc, @"<schemaVersion>", @"</schemaVersion>");
+                    xmlDoc.InnerXml = newXml;
                     xmlDoc.Save(DownloadLocation + fileName);
                 }
                 catch(Exception x)
@@ -125,6 +127,16 @@ namespace EdgarCrawler
             {
                 Console.WriteLine("File already exists: " + fileName);
             }
+        }
+
+        private static string InsertString(XmlDocument xmlDoc, string startString, string endString)
+        {
+            string someText = xmlDoc.InnerXml;
+            int startPlace = TextUtils.Search(someText, startString) - 1;
+            int endPlace = TextUtils.Search(someText, endString)-1;
+            string schema = someText.Substring(startPlace, endPlace - (startPlace - endString.Length));
+            someText = someText.Insert(startPlace, schema);
+            return someText;
         }       
 
         private bool getHtml(string url)

@@ -12,6 +12,8 @@ namespace EdgarCrawler
         static void Main(string[] args)
         {
 
+            var x = new deleteMe();
+
             TextUtils.Comment("I grab code from edgar's site and find Form Ds and form D/As");
             TextUtils.Comment("I then pull xmls and load them into a file for further execution");
 
@@ -33,6 +35,7 @@ namespace EdgarCrawler
 
             var prep2 = new Prepare();
         }
+
     }
 
     
