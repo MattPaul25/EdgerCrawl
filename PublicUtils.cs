@@ -9,7 +9,7 @@ namespace EdgarCrawler
 {
     public static class TextUtils
     {
-        public static int Search(string yourString, string yourMarker, int yourInst = 1, bool caseSensitive = true)
+        public static int Search(this string yourString, string yourMarker, int yourInst = 1, bool caseSensitive = true)
         {
             //returns the placement of a string in another string
             int num = 0;
@@ -22,7 +22,6 @@ namespace EdgarCrawler
                 while (num < yourString.Length)
                 {
                     string testString = yourString.Substring(num, yourMarker.Length);
-                    num += 1;
                     if (testString == yourMarker)
                     {
                         if (currentInst == yourInst)
@@ -32,21 +31,24 @@ namespace EdgarCrawler
                         }
                         currentInst++;
                     }
+                    num++;
                 }
             }
             catch
             {
-                num = 0;
+                num = -1;
             }
-            num = found ? num : 0;
+            num = found ? num : -1;
             return num;
         }
+        
         public static string LeftOf(string yourString, string yourMarker)
         {
             //method or function that pulls everything left of a unique Marker
             int anum = 0;
             int len = yourString.Length;
             int len2 = yourMarker.Length;
+
             string newString = "";
             do
             {

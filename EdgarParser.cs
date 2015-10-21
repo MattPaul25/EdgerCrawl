@@ -7,6 +7,7 @@ using System.Configuration;
 using System.Text.RegularExpressions;
 using System.IO;
 using System.Xml;
+using System.Collections;
 
 namespace EdgarCrawler
 {
@@ -21,6 +22,7 @@ namespace EdgarCrawler
         private string formDAString;
         private string edgarHtml;
         private string pattern;
+        List<string> duplicateCheck = new List<string>();
 
         public EdgarParser()
         {
@@ -31,7 +33,18 @@ namespace EdgarCrawler
             this.formDString = ConfigurationManager.ConnectionStrings["formDHtml"].ConnectionString;
             this.formDAString = ConfigurationManager.ConnectionStrings["formDaHtml"].ConnectionString;
             this.pattern = @"\d{6,7}\/\d{18}\/";
+            DuplicateCheck();
             EdgerCycle();
+        }
+
+        private void DuplicateCheck()
+        {
+            DirectoryInfo d = new DirectoryInfo(DownloadPrev);
+            foreach (var fil in d.GetFiles())
+	        {
+                string FilingIdentifier = fil.Name.Substring(fil.Name.Search("_", 2));
+                duplicateCheck.Add(FilingIdentifier);
+	        }
         }
 
         private void EdgerCycle()
@@ -105,28 +118,37 @@ namespace EdgarCrawler
 
         private void download(string xmlUrl, string fileName)
         {
-
-            if (!File.Exists(DownloadLocation + fileName) && !File.Exists(DownloadPrev + fileName))
+            if (fileName.Search("_", 2) > -1)
             {
-                try
+                string FileIdentifier = fileName.Substring(fileName.Search("_", 2));
+                if (!duplicateCheck.Contains(FileIdentifier))
                 {
-                    Console.WriteLine("Downloading: " + fileName);
-                    XmlDocument xmlDoc = new XmlDocument();
-                    xmlDoc.Load(xmlUrl);
-                    string newXml = InsertString(xmlDoc, @"<schemaVersion>", @"</schemaVersion>");
-                    xmlDoc.InnerXml = newXml;
-                    xmlDoc.Save(DownloadLocation + fileName);
+                    duplicateCheck.Add(FileIdentifier);
+                    try
+                    {
+                        Console.WriteLine("Downloading: " + fileName);
+                        XmlDocument xmlDoc = new XmlDocument();
+                        xmlDoc.Load(xmlUrl);
+                        string newXml = InsertString(xmlDoc, @"<schemaVersion>", @"</schemaVersion>");
+                        xmlDoc.InnerXml = newXml;
+                        xmlDoc.Save(DownloadLocation + fileName);
+                    }
+                    catch (Exception x)
+                    {
+                        TextUtils.Comment(x.Message);
+                        IsSuccessful = false;
+                    }
                 }
-                catch(Exception x)
+                else
                 {
-                    TextUtils.Comment(x.Message);
-                    IsSuccessful = false;
-                }                    
+                    Console.WriteLine("File already exists: " + fileName);
+                }
             }
             else
             {
-                Console.WriteLine("File already exists: " + fileName);
+                Console.WriteLine("Invalid File: " + fileName);
             }
+            
         }
 
         private static string InsertString(XmlDocument xmlDoc, string startString, string endString)
