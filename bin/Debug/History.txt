@@ -2276,32 +2276,3 @@ preperation was successful
 I grab code from edgar's site and find Form Ds and form D/As
 I then pull xmls and load them into a file for further execution
 preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-opening excel file, running macro LoopThroughFiles
-removing excel objects from memory
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
-I grab code from edgar's site and find Form Ds and form D/As
-I then pull xmls and load them into a file for further execution
-preperation was successful
