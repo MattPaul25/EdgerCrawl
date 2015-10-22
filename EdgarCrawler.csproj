@@ -71,7 +71,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ComInterop.cs" />
-    <Compile Include="deleteMe.cs" />
     <Compile Include="EdgarParser.cs" />
     <Compile Include="Prepare.cs" />
     <Compile Include="Program.cs" />

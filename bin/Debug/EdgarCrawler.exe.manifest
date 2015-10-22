@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EdgarCrawler.exe" size="21984">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EdgarCrawler.exe" size="18400">
       <assemblyIdentity name="EdgarCrawler" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oVbN4wK8fbt1+BZC2gMesDd2sfbPN1/dObGsvxuUbac=</dsig:DigestValue>
+        <dsig:DigestValue>7g91N49YkMtrzShtuOSsu/2KrdxJK0cQthheHg0k4uI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="EdgarCrawler.exe.config" size="1198">
+  <file name="EdgarCrawler.exe.config" size="1226">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ORqtO1DO3dzVvVGSuEAFEjHVywaRrMLC9Tw74BZbZx8=</dsig:DigestValue>
+      <dsig:DigestValue>Ngs6YvtSax+ZAQAsrbjDgw0HITEuDrjXpPjXc7kxVSI=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
