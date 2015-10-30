@@ -18,12 +18,9 @@ namespace EdgarCrawler
             if (prep.IsSuccessful)
             {
                 TextUtils.Comment("preperation was successful");
-                var p = new EdgarParser();
-                if (p.IsSuccessful)
-                {
-                    var ex = new ExcelInterop();
-                    var ac = new AccessInterop();
-                }
+                var p = new EdgarParser();               
+                var ex = new ExcelInterop();
+                var ac = new AccessInterop();                
             }
             else
             {

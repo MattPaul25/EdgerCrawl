@@ -2285,3 +2285,15 @@ I grab code from edgar's site and find Form Ds and form D/As
 I then pull xmls and load them into a file for further execution
 preperation was successful
 opening excel file, running macro LoopThroughFiles
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+preperation was successful
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+preperation was successful
+The remote server returned an error: (404) Not Found.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+preperation was successful
+The remote server returned an error: (404) Not Found.
+opening excel file, running macro LoopThroughFiles
