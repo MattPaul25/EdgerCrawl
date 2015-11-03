@@ -94,12 +94,20 @@ namespace EdgarCrawler
             string fileName = match.Replace("/", "_");
             int startParse =  TextUtils.Search(fileName, "_", 1);
             int endParse = TextUtils.Search(fileName, "_", 2)-1;
-            string secondString = fileName.Substring(startParse, endParse - startParse);
-            string secondPortion = secondString.Substring(0, 10)
-                + "-" + secondString.Substring(10, 2) + "-" + secondString.Substring(12, secondString.Length - 12);
+            if (startParse > -1 && endParse > -1 )
+            {
+                string secondString = fileName.Substring(startParse, endParse - startParse);
+                string secondPortion = secondString.Substring(0, 10)
+                    + "-" + secondString.Substring(10, 2) + "-" + secondString.Substring(12, secondString.Length - 12);
 
-            fileName = fileName + secondPortion + ".xml";
-            return fileName;
+                fileName = fileName + secondPortion + ".xml";
+                return fileName;
+            }
+            else
+            {
+                return "";
+            }
+
             
         }
 

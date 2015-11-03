@@ -2297,3 +2297,270 @@ I then pull xmls and load them into a file for further execution
 preperation was successful
 The remote server returned an error: (404) Not Found.
 opening excel file, running macro LoopThroughFiles
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+Problem with preparation: Program ended Abnormally
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+Problem with preparation: Program ended Abnormally
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+Problem with preparation: Program ended Abnormally
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+Problem with preparation: Program ended Abnormally
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
+Problem in prepare class: Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles'.
+preperation was successful
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656036_000165603615000001_0001656036-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\814070_000081407015000002_0000814070-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657415_000165741515000001_0001657415-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\814070_000081407015000001_0000814070-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1653013_000165301315000001_0001653013-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656588_000165658815000001_0001656588-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656096_000165609615000001_0001656096-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656986_000165698615000002_0001656986-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657298_000165729815000001_0001657298-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1654012_000165401215000001_0001654012-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657397_000165739715000001_0001657397-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657321_000165732115000002_0001657321-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657172_000165717215000001_0001657172-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1618397_000161839715000002_0001618397-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1382574_000138257415000002_0001382574-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1562446_000156244615000002_0001562446-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1654905_000165490515000001_0001654905-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656555_000165655515000001_0001656555-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1407969_000140796915000001_0001407969-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1586376_000158637615000001_0001586376-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656971_000165697115000001_0001656971-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657276_000165727615000001_0001657276-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1571426_000157142615000003_0001571426-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657360_000165736015000002_0001657360-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657124_000165712415000001_0001657124-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1453696_000145369615000001_0001453696-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657283_000165728315000001_0001657283-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657344_000146581815000033_0001465818-15-000033.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1608832_000160883215000002_0001608832-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657384_000165738415000001_0001657384-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657137_000131586315000859_0001315863-15-000859.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657343_000146581815000032_0001465818-15-000032.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1569844_000156984415000003_0001569844-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\703904_000070390415000003_0000703904-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657326_000165732615000001_0001657326-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1561798_000156179815000002_0001561798-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1623987_000162398715000001_0001623987-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1623989_000162398915000001_0001623989-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1439397_000125573315000012_0001255733-15-000012.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\813097_000081309715000002_0000813097-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1560892_000156089215000001_0001560892-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\708740_000070874015000002_0000708740-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1574516_000157451615000001_0001574516-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1534040_000153404015000001_0001534040-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1562773_000156277315000001_0001562773-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1168235_000090266415004074_0000902664-15-004074.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1352643_000090266415004073_0000902664-15-004073.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1574865_000157486515000002_0001574865-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1570866_000157086615000002_0001570866-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1627692_000162769215000002_0001627692-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1453696_000145369615000002_0001453696-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1640503_000164050315000002_0001640503-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1637879_000095010315008576_0000950103-15-008576.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1470474_000095010315008573_0000950103-15-008573.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1637925_000095010315008572_0000950103-15-008572.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1606026_000095010315008570_0000950103-15-008570.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1156950_000094787115000781_0000947871-15-000781.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\936442_000093644215000005_0000936442-15-000005.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1591299_000159129915000001_0001591299-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656559_000165655915000001_0001656559-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657306_000165730615000001_0001657306-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657353_000165735315000001_0001657353-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656582_000165658215000001_0001656582-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1644621_000164462115000001_0001644621-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657273_000165727315000001_0001657273-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657277_000165727715000001_0001657277-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1655345_000165575515000002_0001655755-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1654590_000165459015000001_0001654590-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657301_000165730115000001_0001657301-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1655755_000165575515000001_0001655755-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656928_000165692815000001_0001656928-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657314_000165731415000001_0001657314-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1600835_000160083515000003_0001600835-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657323_000165732315000001_0001657323-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1654637_000165463715000003_0001654637-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657178_000121152415000137_0001211524-15-000137.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1482863_000165200515000006_0001652005-15-000006.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656734_000165673415000001_0001656734-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1654481_000144693315000018_0001446933-15-000018.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657297_000165729715000002_0001657297-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657240_000165724015000001_0001657240-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657223_000165722315000001_0001657223-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1461227_000146122715000002_0001461227-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1527896_000152789615000003_0001527896-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656563_000165656315000002_0001656563-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656545_000165654515000002_0001656545-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656560_000165656015000002_0001656560-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657179_000165717915000001_0001657179-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656543_000165654315000002_0001656543-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1303152_000130315215000006_0001303152-15-000006.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1568852_000114036115039225_0001140361-15-039225.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657296_000165729615000001_0001657296-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657063_000165706315000001_0001657063-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1609151_000160915115000003_0001609151-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657090_000165709015000001_0001657090-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656073_000165607315000001_0001656073-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657203_000121478215000184_0001214782-15-000184.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657236_000165723615000001_0001657236-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656738_000165673815000001_0001656738-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657268_000165726815000002_0001657268-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657229_000165722915000001_0001657229-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1653960_000114420415062105_0001144204-15-062105.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657015_000094366315000224_0000943663-15-000224.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1615307_000161530715000002_0001615307-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656729_000165672915000001_0001656729-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656886_000114036115039191_0001140361-15-039191.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656926_000165692615000001_0001656926-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657263_000165726315000003_0001657263-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657180_000165718015000001_0001657180-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657213_000165721315000001_0001657213-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1520370_000114420415062085_0001144204-15-062085.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1133060_000113306015000001_0001133060-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656327_000165632715000001_0001656327-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656883_000165688315000001_0001656883-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656934_000165693415000001_0001656934-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1654982_000165498215000001_0001654982-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1562529_000156252915000002_0001562529-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1652551_000165255115000001_0001652551-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657029_000165702915000001_0001657029-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657088_000165708815000001_0001657088-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1595296_000159529615000002_0001595296-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1617813_000095014215002313_0000950142-15-002313.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1621672_000162167215000007_0001621672-15-000007.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657182_000162525715000088_0001625257-15-000088.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656663_000165666315000001_0001656663-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1591749_000131586315000858_0001315863-15-000858.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1649453_000164945315000002_0001649453-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1278837_000091957415007591_0000919574-15-007591.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1534470_000135448815004788_0001354488-15-004788.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1588040_000158804015000001_0001588040-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1463852_000146385215000001_0001463852-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1450774_000145077415000001_0001450774-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1554590_000155459015000001_0001554590-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1554803_000155480315000001_0001554803-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1292869_000091957415007588_0000919574-15-007588.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1635317_000163531715000003_0001635317-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656449_000165644915000002_0001656449-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1585701_000158570115000001_0001585701-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1468370_000162525715000090_0001625257-15-000090.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1468369_000162525715000089_0001625257-15-000089.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1572285_000157228515000001_0001572285-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1567187_000156718715000001_0001567187-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1356974_000135697415000002_0001356974-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656161_000165616115000001_0001656161-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656960_000165696015000002_0001656960-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656690_000165617415000001_0001656174-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656174_000165617415000001_0001656174-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656193_000165619315000001_0001656193-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656900_000165690015000001_0001656900-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1006028_000100602815000001_0001006028-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1538864_000109690615001121_0001096906-15-001121.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657176_000165717615000001_0001657176-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657210_000165721015000001_0001657210-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657173_000165717315000001_0001657173-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657183_000165718315000001_0001657183-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656333_000165633315000001_0001656333-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656878_000165687815000003_0001656878-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1655810_000165581015000001_0001655810-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656997_000165699715000001_0001656997-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1629593_000162959315000002_0001629593-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657189_000165718915000001_0001657189-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1653335_000165333515000001_0001653335-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1435090_000143509015000001_0001435090-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1653320_000165332015000001_0001653320-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656917_000165691715000001_0001656917-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656845_000165684515000001_0001656845-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657188_000146581815000031_0001465818-15-000031.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656289_000165628915000001_0001656289-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1503068_000146215615000005_0001462156-15-000005.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1503068_000146215615000004_0001462156-15-000004.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1503068_000146215615000003_0001462156-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657187_000165718715000001_0001657187-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657181_000162525715000087_0001625257-15-000087.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1531034_000153103415000001_0001531034-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657165_000091957415007565_0000919574-15-007565.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657190_000146581815000030_0001465818-15-000030.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657034_000165703415000002_0001657034-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657163_000165716315000001_0001657163-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656306_000165630615000003_0001656306-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1652903_000114420415061861_0001144204-15-061861.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657238_000165723815000001_0001657238-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656572_000165657215000004_0001656572-15-000004.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656710_000121390015008077_0001213900-15-008077.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1378590_000165256515000003_0001652565-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1570006_000091957415007583_0000919574-15-007583.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656878_000165687815000004_0001656878-15-000004.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\935457_000093545715000001_0000935457-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1600235_000091384915000287_0000913849-15-000287.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1477895_000090571815000863_0000905718-15-000863.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1477894_000090571815000861_0000905718-15-000861.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1562185_000146385115000019_0001463851-15-000019.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1405385_000089914015000779_0000899140-15-000779.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1395549_000089914015000778_0000899140-15-000778.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1215726_000114036115039140_0001140361-15-039140.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1481796_000089914015000777_0000899140-15-000777.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1405397_000089914015000776_0000899140-15-000776.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1605154_000160510815000002_0001605108-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1605152_000160510815000002_0001605108-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1605108_000160510815000002_0001605108-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1481761_000089914015000775_0000899140-15-000775.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1481759_000089914015000774_0000899140-15-000774.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1448359_000089914015000773_0000899140-15-000773.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1512766_000146385115000018_0001463851-15-000018.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1481760_000089914015000772_0000899140-15-000772.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1504294_000146385115000017_0001463851-15-000017.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1509531_000146385115000016_0001463851-15-000016.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1502395_000146385115000015_0001463851-15-000015.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1502396_000146385115000014_0001463851-15-000014.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\835978_000146385115000013_0001463851-15-000013.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1165158_000146385115000012_0001463851-15-000012.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1553290_000146385115000011_0001463851-15-000011.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1502398_000146385115000010_0001463851-15-000010.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1387475_000146385115000009_0001463851-15-000009.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1387466_000146385115000008_0001463851-15-000008.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1640518_000164051815000001_0001640518-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1528276_000152827615000001_0001528276-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1341615_000146385115000007_0001463851-15-000007.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1350497_000146385115000006_0001463851-15-000006.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1349963_000146385115000005_0001463851-15-000005.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1350499_000146385115000004_0001463851-15-000004.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1653617_000165361715000002_0001653617-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1484560_000148456015000002_0001484560-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1504296_000146385115000003_0001463851-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1504295_000146385115000002_0001463851-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1463851_000146385115000001_0001463851-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1652870_000165287015000002_0001652870-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656673_000165667315000003_0001656673-15-000003.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1478104_000147810415000001_0001478104-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657252_000165725215000001_0001657252-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656294_000093583615000563_0000935836-15-000563.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657251_000165725115000001_0001657251-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656540_000165654015000001_0001656540-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656025_000089914015000771_0000899140-15-000771.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1531177_000153117715000002_0001531177-15-000002.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1644931_000101359415000558_0001013594-15-000558.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1657206_000165720615000001_0001657206-15-000001.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1632340_000114036115039083_0001140361-15-039083.xml'.
+Could not find a part of the path '\\sfontsfap01\V1\Research\Shared\XmlDataFeed\xmlFiles\1656407_000101359415000557_0001013594-15-000557.xml'.
+I grab code from edgar's site and find Form Ds and form D/As
+I then pull xmls and load them into a file for further execution
