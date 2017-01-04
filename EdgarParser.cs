@@ -167,8 +167,5 @@ namespace EdgarCrawler
             }
             return isDownloaded;          
         }
-
-
-        
     }
 }
